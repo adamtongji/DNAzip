@@ -23,7 +23,7 @@ Example: <br>
 `DNAzip -f ./example/sample.fastq -t fastq -o sample_fastq `<br>
 
 ### optional arguments: 
-|  parameter   |  introduction |
+|  Parameter   |  Introduction |
 | :---------- | :-------- |
 |  -h, --help    |        show this help message and exit 
 |  -v, --verbose  |       increase ouput verbosity.
