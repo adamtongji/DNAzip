@@ -2,8 +2,8 @@ README
 =============
 ## DNAzip -- Compressing sequencing data
 
-#### Download and Install: <br>
-##### Requirements: <br>
+#### Download and Install: 
+##### Requirements: 
 Python 2.7.* <br>
 bz2file <br>
 
