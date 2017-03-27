@@ -9,7 +9,8 @@ README
 
 
 ```Bash
-sudo pip install bz2file
+## Linux or Macox commandline
+(sudo) pip install bz2file
 git clone git@github.com:adamtongji/DNAzip.git
 export $PATH=/your/path/to/DNAzip/
 chmod 777 /your/path/to/DNAzip/DNAzip
