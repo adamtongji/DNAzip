@@ -15,8 +15,8 @@ git clone git@github.com:adamtongji/DNAzip.git
 export $PATH=/your/path/to/DNAzip/
 chmod 777 /your/path/to/DNAzip/DNAzip
 ```
-
-usage:  usage: DNAzip <-f file> <-d> [-o output prefix] [options] <br>
+### Main arguments:
+usage: DNAzip <-f file> <-d> [-o output prefix] [options] <br>
 
 Example: <br>
 DNAzip -f ecoli.fasta -t fasta -o ecoli <br>
