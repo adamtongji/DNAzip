@@ -19,8 +19,8 @@ chmod 777 /your/path/to/DNAzip/DNAzip
 usage: DNAzip <-f file> <-d> [-o output prefix] [options] <br>
 
 Example: <br>
-DNAzip -f ecoli.fasta -t fasta -o ecoli <br>
-DNAzip -f sample.fastq -t fastq -o sample <br>
+`DNAzip -f ./example/ecoli.fasta -t fasta -o ecoli_fasta `<br>
+`DNAzip -f ./example/sample.fastq -t fastq -o sample_fastq `<br>
 
 ### optional arguments: 
 |  parameter   |  Introduction |
