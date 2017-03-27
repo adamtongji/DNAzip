@@ -1,6 +1,6 @@
 README
 =============
-## DNAzip -- Compressing sequencing data
+## DNAzip -- Fast and Deep Compression for Raw and Compressed Sequencing Data
 
 ### Download and Install: 
 **Requirements:** <br>
