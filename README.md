@@ -4,8 +4,8 @@ README
 
 ### Download and Install: 
 `Requirements: ` <br>
-Python 2.7.* <br>
-bz2file <br>
+`Python 2.7.*` <br>
+`bz2file` <br>
 
 
 ```Bash
