@@ -2,17 +2,28 @@ README
 =============
 ## DNAzip -- Compressing sequencing data
 
-usage:  usage: DNAzip <-f file> <-d> [-o output prefix] [options]
+#### Download and Install: <br>
+##### Requirements: <br>
+Python 2.7.* <br>
+bz2file <br>
 
-Example: DNAzip -f ecoli.fasta -t fasta -o ecoli
-         DNAzip -f sample.fastq -t fastq -o sample
 
+```Bash
+sudo pip install bz2file
+git clone git@github.com:adamtongji/DNAzip.git
+export $PATH=/your/path/to/DNAzip/
+chmod 777 /your/path/to/DNAzip/DNAzip
+```
 
+usage:  usage: DNAzip <-f file> <-d> [-o output prefix] [options] <br>
 
+Example: <br>
+DNAzip -f ecoli.fasta -t fasta -o ecoli <br>
+DNAzip -f sample.fastq -t fastq -o sample <br>
 
 ### optional arguments: 
 |  parameter   |  Introduction |
-| ---------- | -------- |
+| :---------- | :-------- |
 |  -h, --help    |        show this help message and exit 
 |  -v, --verbose  |       increase ouput verbosity.
 |  -q, --quiet   |        No output log file.
